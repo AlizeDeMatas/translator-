@@ -7,8 +7,8 @@ import { TranslateService } from "./translate.service";
   styleUrls: ["./app.component.css"]
 })
 export class AppComponent {
-  text: string;Yttik#1
-  
+  text: string;
+
 
   translatedText: string;
 
